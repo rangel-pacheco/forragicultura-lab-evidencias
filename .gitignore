@@ -1,0 +1,18 @@
+# Publicação por lista de inclusão
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!assets/
+!assets/site.css
+!assets/marca.svg
+!assets/prancha.svg
+!assets/impressao.js
+!assets/imagens/
+!assets/imagens/*.webp
+!documentos/
+!documentos/documentos.css
+!documentos/ficha-tecnica.html
+!documentos/memorial-descritivo.html
+!documentos/relatorio-testes.html
